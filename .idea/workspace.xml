@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3521a9a-da0c-41dc-ae93-eb451ce077f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Program Files\Java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DZ1wKOo7xuOREPjpMqP2OLf2rc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/REPO/link-advertise-pro/framework-core/src/main/java/org/link/advertise/core",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files",
+    "spring.configuration.checksum": "41c66587395012ff3b3b3dd953944948"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\REPO\link-advertise-pro\framework-core\src\main\java\org\link\advertise\core" />
+      <recent name="D:\REPO\link-advertise-pro\biz-module-material\src\main\java\org\link\advertise\material" />
+      <recent name="D:\REPO\link-advertise-pro\biz-module-leads\src\main\java\org\link\advertise\leads" />
+      <recent name="D:\REPO\link-advertise-pro\biz-module-landpage\src\main\java\org\link\advertise\landpage" />
+      <recent name="D:\REPO\link-advertise-pro\biz-module-dot\src\main\java\org\link\advertise\dot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\REPO\link-advertise-pro" />
+      <recent name="D:\REPO\link-advertise-pro\biz-module" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.link.advertise.core.annotation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServerAdminApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="framework-core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="framework-core" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkAdvertiseAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="link-advertise-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.link.advertise.LinkAdvertiseAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.link.advertise.ServerAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3521a9a-da0c-41dc-ae93-eb451ce077f0" name="Changes" comment="" />
+      <created>1660892031652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660892031652</updated>
+      <workItem from="1660892033234" duration="8835000" />
+      <workItem from="1660902045352" duration="242000" />
+      <workItem from="1660902301280" duration="507000" />
+      <workItem from="1660902821699" duration="910000" />
+      <workItem from="1661130500119" duration="7672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

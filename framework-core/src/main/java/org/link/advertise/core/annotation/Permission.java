@@ -14,6 +14,10 @@ import java.lang.annotation.*;
 @Documented
 public @interface Permission {
 
+    /***
+     * 权限设置查看
+     * @see org.link.advertise.core.constans.PermissionEnum
+     * */
     PermissionEnum[] value() default PermissionEnum.ADMIN;
 
 }

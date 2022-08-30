@@ -12,9 +12,12 @@
     <artifactId>framework-core</artifactId>
     <name>framework-core</name>
 
-
     <dependencies>
-
+        <dependency>
+            <groupId>org.link.advertise</groupId>
+            <artifactId>dependency-module</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>

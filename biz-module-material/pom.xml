@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>link-advertise-material</artifactId>
-    <name>link-advertise-material</name>
+    <artifactId>biz-module-material</artifactId>
+    <name>biz-module-material</name>
     <description>素材库模块</description>
 
     <dependencies>

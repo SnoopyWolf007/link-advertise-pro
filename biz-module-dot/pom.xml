@@ -9,9 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>link-advertise-dot</artifactId>
-    <name>link-advertise-dot</name>
-
+    <artifactId>biz-module-dot</artifactId>
+    <name>biz-module-dot</name>
 
     <dependencies>
 

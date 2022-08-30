@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3521a9a-da0c-41dc-ae93-eb451ce077f0" name="Changes" comment="" />
+    <list default="true" id="d3521a9a-da0c-41dc-ae93-eb451ce077f0" name="Changes" comment="feat: 模块更名">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biz-module-dot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-dot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biz-module-landpage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-landpage/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biz-module-leads/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-leads/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biz-module-material/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-material/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/framework-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-core/src/main/java/org/link/advertise/core/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-core/src/main/java/org/link/advertise/core/annotation/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-core/src/main/java/org/link/advertise/core/annotation/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-admin/src/main/java/org/link/advertise/ServerAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-admin/src/main/java/org/link/advertise/ServerAdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-admin/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server-admin/src/main/resources/application-dev.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +29,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -28,13 +45,16 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="C:\Program Files\Java\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../soft/apache-maven-3.6.0" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2DZ1wKOo7xuOREPjpMqP2OLf2rc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,9 +69,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/REPO/link-advertise-pro/framework-core/src/main/java/org/link/advertise/core",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files",
-    "spring.configuration.checksum": "41c66587395012ff3b3b3dd953944948"
+    "last_opened_file_path": "D:/REPO/link-advertise-pro/dependency-module",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "6e9d8b0d9e9555db1d7fc06f8821d7fb"
   }
 }]]></component>
   <component name="ReactorSettings">
@@ -59,11 +82,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\REPO\link-advertise-pro\dependency-module" />
       <recent name="D:\REPO\link-advertise-pro\framework-core\src\main\java\org\link\advertise\core" />
       <recent name="D:\REPO\link-advertise-pro\biz-module-material\src\main\java\org\link\advertise\material" />
       <recent name="D:\REPO\link-advertise-pro\biz-module-leads\src\main\java\org\link\advertise\leads" />
       <recent name="D:\REPO\link-advertise-pro\biz-module-landpage\src\main\java\org\link\advertise\landpage" />
-      <recent name="D:\REPO\link-advertise-pro\biz-module-dot\src\main\java\org\link\advertise\dot" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\REPO\link-advertise-pro" />
@@ -115,6 +138,10 @@
       <workItem from="1660902301280" duration="507000" />
       <workItem from="1660902821699" duration="910000" />
       <workItem from="1661130500119" duration="7672000" />
+      <workItem from="1661857221406" duration="314000" />
+      <workItem from="1661857559555" duration="167000" />
+      <workItem from="1661857750014" duration="5507000" />
+      <workItem from="1661866594655" duration="5834000" />
     </task>
     <servers />
   </component>
@@ -131,5 +158,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 模块更名" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 模块更名" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

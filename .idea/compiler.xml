@@ -11,15 +11,19 @@
         <module name="biz-module-material" />
         <module name="biz-module-dot" />
         <module name="biz-module-leads" />
-        <module name="biz-module-landpage" />
         <module name="framework-core" />
+        <module name="biz-module-landpage" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="link-advertise-admin" target="1.8" />
       <module name="link-advertise-common" target="1.8" />
       <module name="link-advertise-dependency" target="1.8" />
+      <module name="link-advertise-dot" target="1.8" />
       <module name="link-advertise-framework" target="1.8" />
+      <module name="link-advertise-landpage" target="1.8" />
+      <module name="link-advertise-leads" target="1.8" />
+      <module name="link-advertise-material" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

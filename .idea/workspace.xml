@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3521a9a-da0c-41dc-ae93-eb451ce077f0" name="Changes" comment="feat: 模块更名">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="d3521a9a-da0c-41dc-ae93-eb451ce077f0" name="Changes" comment="feat: init project">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biz-module-dot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-dot/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biz-module-landpage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-landpage/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biz-module-leads/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-leads/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biz-module-material/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biz-module-material/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/framework-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework-core/src/main/java/org/link/advertise/core/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework-core/src/main/java/org/link/advertise/core/annotation/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-core/src/main/java/org/link/advertise/core/annotation/Permission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-admin/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-admin/src/main/java/org/link/advertise/ServerAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-admin/src/main/java/org/link/advertise/ServerAdminApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-admin/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server-admin/src/main/resources/application-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,34 +46,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/REPO/link-advertise-pro/dependency-module",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "6e9d8b0d9e9555db1d7fc06f8821d7fb"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/REPO/link-advertise-pro/server-admin/src/main/java/org/link/advertise&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;c0d79480c2aa0fde8caa27e9ffb90fe1&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\REPO\link-advertise-pro\server-admin\src\main\java\org\link\advertise" />
       <recent name="D:\REPO\link-advertise-pro\dependency-module" />
       <recent name="D:\REPO\link-advertise-pro\framework-core\src\main\java\org\link\advertise\core" />
       <recent name="D:\REPO\link-advertise-pro\biz-module-material\src\main\java\org\link\advertise\material" />
       <recent name="D:\REPO\link-advertise-pro\biz-module-leads\src\main\java\org\link\advertise\leads" />
-      <recent name="D:\REPO\link-advertise-pro\biz-module-landpage\src\main\java\org\link\advertise\landpage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\REPO\link-advertise-pro" />
@@ -97,6 +87,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ServerAdminApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.link.advertise.Test" />
+      <module name="server-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.link.advertise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="framework-core" />
       <method v="2">
@@ -124,6 +127,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -142,6 +150,8 @@
       <workItem from="1661857559555" duration="167000" />
       <workItem from="1661857750014" duration="5507000" />
       <workItem from="1661866594655" duration="5834000" />
+      <workItem from="1665388238253" duration="1574000" />
+      <workItem from="1667200464790" duration="254000" />
     </task>
     <servers />
   </component>
